@@ -35,8 +35,13 @@ p {
 }
 
 img {
-  margin: .5em auto 0 auto;
-  border: 3px solid red;
+  display: block;
+  margin: .8em auto .2em auto;
+}
+
+.product-image {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .specifications, .pricing {
