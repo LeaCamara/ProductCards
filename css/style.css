@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  font-family: Trebuchet, Helvetica, Arial, sans-serif;
+  margin: 2em;
+}
+
+article {
+  width: 30%;
+  float: left;
+  border: 1px solid lightblue;
+  margin: 1em;
+}
+
+header {
+  width: 100%;
+  border: 1px dotted lightgray;
+}
+
+h2, h4, h5, p {
+  padding: .1em;
+}
+
+h2 {
+  text-align: center;
+}
+
+h5 {
+  text-align: left;
+  background-color: #424242;
+  color: yellow;
+}
+
+p {
+  font-size: .8em;
+}
+
+img {
+  margin: .5em auto 0 auto;
+  border: 3px solid red;
+}
+
+.specifications, .pricing {
+  font-weight: bold;
+}
+
+.product-description {
+  text-align: justify;
+}
+
+footer {
+  font-size: .5em;
+}
